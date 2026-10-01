@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /js/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://jrdatacomms.co.uk/sitemap.xml
